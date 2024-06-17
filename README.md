@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi! I'm Cristina, Frontend Developer ☕</h2>
 
-<!--
-**cristinacoding/cristinacoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about crafting simple, aesthetically pleasing websites with a mobile-first approach.
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/cristinacoding" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8291d7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://cristinacoding.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-8291d7?style=for-the-badge&logo=vite&logoColor=white"></a>
+<a href="mailto:cristinacoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email me-8291d7?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Currently I am...
+- Working on my website
+- Learning React
+- Completing The Odin Project to consolidate and further my knowledge 🚀
+
+### Languages
+![Static Badge](https://img.shields.io/badge/HTML-8291d7?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-8291d7?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-8291d7?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-8291d7?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tailwind-8291d7?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-8291d7?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-8291d7?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Static Badge](https://img.shields.io/badge/Figma-8291d7?style=for-the-badge&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Wordpress-8291d7?style=for-the-badge&logo=wordpress&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Elementor-8291d7?style=for-the-badge&logo=elementor&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VSCODE-8291d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
