@@ -2,9 +2,9 @@
 
 I'm passionate about crafting simple, aesthetically pleasing websites with a mobile-first approach.
 
-<a href="https://linkedin.com/in/cristinacoding" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-e6edf9?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-<a href="https://cristinacoding.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-e6edf9?style=for-the-badge&logo=vite&logoColor=black"></a>
-<a href="mailto:cristinacoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email me-e6edf9?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="https://linkedin.com/in/cristinacoding" target="_blank"><img src="https://img.shields.io/badge/LinkedIn_🡪-e2e8f0?style=for-the-badge"></a>
+<a href="mailto:cristinacoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_me_🡪-e2e8f0?style=for-the-badge"></a>
+<a href="https://cristinacoding.github.io" target="_blank"><img src="https://img.shields.io/badge/Website_🡪-e2e8f0?style=for-the-badge"></a>
 
 
 ### Currently I am...
