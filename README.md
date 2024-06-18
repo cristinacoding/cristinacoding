@@ -1,4 +1,4 @@
-### Hi! I'm Cristina, Frontend Developer ☕</h2>
+### Hi! I'm Cristina, Frontend Developer 🚀</h2>
 
 I'm passionate about crafting simple, aesthetically pleasing websites with a mobile-first approach.
 
@@ -10,7 +10,7 @@ I'm passionate about crafting simple, aesthetically pleasing websites with a mob
 ### Currently working on...
 - My website
 - Learning React
-- The Odin Project to further my knowledge 🚀
+- The Odin Project to further my knowledge
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/HTML-e2e8f0?style=for-the-badge&logo=html5&logoColor=black)
