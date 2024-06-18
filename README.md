@@ -13,16 +13,16 @@ I'm passionate about crafting simple, aesthetically pleasing websites with a mob
 - Completing The Odin Project to consolidate and further my knowledge 🚀
 
 ### Languages
-![Static Badge](https://img.shields.io/badge/HTML-8291d7?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-8291d7?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-8291d7?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Bootstrap-8291d7?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tailwind-8291d7?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React-8291d7?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQL-8291d7?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-646dc7?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-646dc7?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-646dc7?style=for-the-badge&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-646dc7?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tailwind-646dc7?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-646dc7?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-646dc7?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-![Static Badge](https://img.shields.io/badge/Figma-8291d7?style=for-the-badge&logo=figma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Wordpress-8291d7?style=for-the-badge&logo=wordpress&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Elementor-8291d7?style=for-the-badge&logo=elementor&logoColor=white)
-![Static Badge](https://img.shields.io/badge/VSCODE-8291d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Figma-646dc7?style=for-the-badge&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Wordpress-646dc7?style=for-the-badge&logo=wordpress&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Elementor-646dc7?style=for-the-badge&logo=elementor&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VSCODE-646dc7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
