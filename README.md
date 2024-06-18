@@ -6,7 +6,7 @@ My inbox is open 📩
 
 
 <a href="https://linkedin.com/in/cristinacoding" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-cbd5e1?style=for-the-badge"></a>
-<a href="mailto:cristinacoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_me-cbd5e1?style=for-the-badge"></a>
+<a href="mailto:cristinacoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-cbd5e1?style=for-the-badge"></a>
 <a href="https://cristinacoding.github.io" target="_blank"><img src="https://img.shields.io/badge/Visit_my_website_🡪-cbd5e1?style=for-the-badge"></a>
 
 ### Currently working on...
