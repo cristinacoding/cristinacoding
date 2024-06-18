@@ -7,10 +7,10 @@ I'm passionate about crafting simple, aesthetically pleasing websites with a mob
 <a href="https://cristinacoding.github.io" target="_blank"><img src="https://img.shields.io/badge/Visit_my_website_🡪-e2e8f0?style=for-the-badge"></a>
 
 
-### Currently I am...
-- Working on my website
+### Currently working on...
+- My website
 - Learning React
-- Completing The Odin Project to consolidate and further my knowledge 🚀
+- The Odin Project to further my knowledge 🚀
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/HTML-e2e8f0?style=for-the-badge&logo=html5&logoColor=black)
