@@ -14,7 +14,6 @@ My inbox is open 📩
 ![Static Badge](https://img.shields.io/badge/JavaScript-b6c7eb?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-b6c7eb?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Tailwind-b6c7eb?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![Static Badge](https://img.shields.io/badge/React-b6c7eb?style=for-the-badge&logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/SQL-b6c7eb?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### Tools
